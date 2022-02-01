@@ -17,7 +17,7 @@ SQLに登録されている商品データ（商品名・価格・商品画像�
 
 
 **＜接続しているDB＞**
-![IMG_3455](https://user-images.githubusercontent.com/95159204/152002484-393fe042-6293-421c-b118-a91594fd006b.PNG)
+<img width="620" alt="スクリーンショット 2022-02-02 0 58 55" src="https://user-images.githubusercontent.com/95159204/152004098-c599121d-5538-4425-b46b-53948334d509.png">
 DB名：fmk_db
 参照元にしたいtable:listing_items_table
 
